@@ -1,3 +1,4 @@
+Node Js e JavaScript
 1. Declare três variáveis diferentes (uma para cada tipo: string, número e booleano) e atribua valores a elas. Em 
 seguida, exiba o tipo de cada variável no console.
 2. Crie duas variáveis, uma contendo seu primeiro nome e outra contendo seu último nome. Em seguida, combine-as 
@@ -23,4 +24,4 @@ litro
 13. Calcular o valor em R$ de uma máquina que consome 1750 W / hora sabendo que a máquina fica ligada 8 horas 
 dia, 25 dias por mês . O custo da energia é 0.75 por KW
 14. Calcular a média de um aluno que tirou 9, 8 e 7, se media >= 6 aprovado, se media >4 && menor que 5 exame
-15. Calcular IMC.
+15. Calcular IMC..
